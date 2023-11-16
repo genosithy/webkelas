@@ -10,12 +10,12 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBmUIXJblRGF4HTCO3hOB8MykvLOq7whUE",
-  authDomain: "project-web-kelas.firebaseapp.com",
-  projectId: "project-web-kelas",
-  storageBucket: "project-web-kelas.appspot.com",
-  messagingSenderId: "202691312352",
-  appId: "1:202691312352:web:e82e7a494e705b2a12ee85"
+  apiKey: "AIzaSyCRVqeYiuBUrx7E_-WeXD3tJuySyDXl7TA",
+  authDomain: "webkelas-c941e.firebaseapp.com",
+  projectId: "webkelas-c941e",
+  storageBucket: "webkelas-c941e.appspot.com",
+  messagingSenderId: "634726012312",
+  appId: "1:634726012312:web:e5bfe9d356e67d334c87ed"
 };
 
 // Initialize Firebase
