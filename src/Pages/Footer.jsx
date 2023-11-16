@@ -21,7 +21,7 @@ const Footer = () => {
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
 									<a href="#" class="hover:underline">
-										mr.8
+										RPL TEAM
 									</a>
 								</li>
 							</ul>
